@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color:rgb(75, 62, 75);
+}
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 240px;
+  font-size: 115px;
+  color:rgb(255, 0, 0);
+  /* border: 1px solid black; */
+}
+
